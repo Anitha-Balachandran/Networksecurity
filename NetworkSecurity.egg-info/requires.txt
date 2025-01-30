@@ -11,6 +11,3 @@ dagshub
 fastapi
 uvicorn
 python-multipart
-
-# enable the below once after the project is completed.
-## -e .
